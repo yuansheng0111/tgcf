@@ -4,7 +4,7 @@ import shutil
 from typing import Any, Dict
 
 import requests
-from pydantic import BaseModel  # pylint: disable=no-name-in-module
+# from pydantic import BaseModel
 from watermark import File, Position, Watermark, apply_watermark
 
 from tgcf.plugin_models import MarkConfig
