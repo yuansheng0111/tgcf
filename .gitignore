@@ -11,9 +11,9 @@ tgcf_external.py
 t.yml
 test.py
 tgcf.config.json
-*.txt
 todo
 *.ipynb
+log**
 
 
 
